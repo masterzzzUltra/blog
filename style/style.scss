@@ -1,0 +1,52 @@
+
+
+
+
+
+
+.example-img {
+    display: block;
+    height: 150px;
+    width:  150px;
+}
+
+
+
+// DESKTOP SCREEN
+@media only screen and (min-width: 768px) {
+    @import './desktop.views/myAccount.scss';
+}
+
+
+
+// MOBILE SCREEN
+@media only screen and (max-width: 768px) {
+    @import './mobile.views/myAccount-mobile.scss';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

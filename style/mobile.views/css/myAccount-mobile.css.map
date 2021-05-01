@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAKA,AAAA,YAAY,CAAC;EACT,OAAO,EAAE,KAAK;EACd,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "../myAccount-mobile.scss"
+    ],
+    "names": [],
+    "file": "myAccount-mobile.css"
+}
